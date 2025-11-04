@@ -17,4 +17,4 @@ Data Visualization: Power BI dashboards, Matplotlib
 
 ✈️ Flight Data Insights — Forecasted ticket prices with 96% accuracy using Python & SQL.
 
-🚗 Uber Insights — Built Power BI dashboards with 94% accuracy on trip trends.+
+🚗 Uber Insights — Built Power BI dashboards with 94% accuracy on trip trends.
