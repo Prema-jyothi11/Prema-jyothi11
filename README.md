@@ -14,3 +14,7 @@ Data Visualization: Power BI dashboards, Matplotlib
 🔹 My Projects:
 
 📊 SQL Banking Insights — Built analytical views to identify financial trends and customer segments.
+
+✈️ Flight Data Insights — Forecasted ticket prices with 96% accuracy using Python & SQL.
+
+🚗 Uber Insights — Built Power BI dashboards with 94% accuracy on trip trends.+
