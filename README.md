@@ -12,3 +12,5 @@ Database Management: SQLite, MySQL
 Data Visualization: Power BI dashboards, Matplotlib
 
 🔹 My Projects:
+
+📊 SQL Banking Insights — Built analytical views to identify financial trends and customer segments.
